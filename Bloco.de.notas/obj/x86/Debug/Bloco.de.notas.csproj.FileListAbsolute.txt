@@ -30,3 +30,12 @@ D:\GDrive\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\ScyN
 C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\bin\Debug\ScyNotepad.exe.config
 C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
 C:\Users\adm\Google Drive\TestesC#\Bloco.de.notas\Bloco.de.notas\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\tabta\Documents\GitHub\Notepad\Bloco.de.notas\bin\Debug\ScyNotepad.exe.config
+C:\Users\tabta\Documents\GitHub\Notepad\Bloco.de.notas\obj\x86\Debug\ScyNotepad.exe
+C:\Users\tabta\Documents\GitHub\Notepad\Bloco.de.notas\obj\x86\Debug\ScyNotepad.pdb
+C:\Users\tabta\Documents\GitHub\Notepad\Bloco.de.notas\bin\Debug\ScyNotepad.exe
+C:\Users\tabta\Documents\GitHub\Notepad\Bloco.de.notas\bin\Debug\ScyNotepad.pdb
+C:\Users\tabta\Documents\GitHub\Notepad\Bloco.de.notas\obj\x86\Debug\Bloco.de.notas.csprojResolveAssemblyReference.cache
+C:\Users\tabta\Documents\GitHub\Notepad\Bloco.de.notas\obj\x86\Debug\notepad.frmPrincipal.resources
+C:\Users\tabta\Documents\GitHub\Notepad\Bloco.de.notas\obj\x86\Debug\notepad.Properties.Resources.resources
+C:\Users\tabta\Documents\GitHub\Notepad\Bloco.de.notas\obj\x86\Debug\Bloco.de.notas.csproj.GenerateResource.Cache
